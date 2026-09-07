@@ -22,6 +22,9 @@ CM7 / CyGfx blit engine
 The Infineon "Surface Blit" tutorial then draws on the physical panel with no change to
 its drawing steps.
 
+![The Waveshare panel running the Surface Blit tutorial over HDMI: blue background, the
+black and white bitmap copy, the colour pattern block and the blended Hello World text](panel.jpeg)
+
 ## Hardware and tools
 
 | | |
